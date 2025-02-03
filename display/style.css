@@ -1,0 +1,15 @@
+/* Inline: nao quebra linha, tem largura minima, aceita apenas margem e preenchimento na horizontal*/
+.inline {
+  display: inline;
+}
+
+/* Block: quebra a linha, largura maxima da pagina, aceita todas as margens e preenchimentos*/
+.block {
+  display: block;
+}
+
+/* Inline-Block: não quebra a linha, aceita todas as margens e preenchimentos*/
+
+.inline-block {
+  display: inline-block;
+}
